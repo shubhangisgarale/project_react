@@ -1,0 +1,58 @@
+export const allProducts = [
+  {
+    id: 1,
+    name: "Mildy Tube Of 100ml Shampoo",
+    category: "Personal Care",
+    price:200,
+    stock: 50,
+  },
+  {
+    id: 2,
+    name: "Accu-Chek Active Glucometer Test Strips Box Of 50",
+    category: "Healthcare Devices",
+    price: 985,
+    stock: 30,
+  },
+  {
+    id: 3,
+    name: "Dabur Chyawanprash 250 Gm",
+    category: "Health Food and Drinks",
+    price: 114,
+    stock: 70,
+  },
+  {
+    id: 4,
+    name: "Sebamed Clear Face Foam - 150ml",
+    category: "Skin Care",
+    price: 557,
+    stock: 40,
+  },
+  {
+    id: 5,
+    name: "Liveasy Baby Care Baby Massage Oil - 100 Ml",
+    category: "Mother and Baby Care",
+    price: 100,
+    stock: 15,
+  },
+  {
+    id: 6,
+    name: "Pharmeasy Digital Thermometer",
+    category: "Accessories & Wearables",
+    price: 165,
+    stock: 30,
+  },
+  {
+    id: 7,
+    name: "Neurobion Forte Tablet 30'S",
+    category: "Fitness Supplements",
+    price: 41,
+    stock: 25,
+  },
+  {
+    id: 8,
+    name: "Himalaya Liv.52 Ds Tablets - 60'S",
+    category: "Ayurvedic Care",
+    price: 278,
+    stock: 13,
+  },
+];
